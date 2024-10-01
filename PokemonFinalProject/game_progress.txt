@@ -1,0 +1,4 @@
+TEAM,FireDragon,2,140,180,20,FIRE,180,180,20,6
+ITEM,Small HP Potion
+ITEM,Fire Stone
+ITEM,HP Potion
